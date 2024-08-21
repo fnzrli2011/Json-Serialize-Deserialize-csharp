@@ -1,0 +1,2 @@
+{"Name":"Choclate","CostPrice":3,"SellPrice":4,"id":1}
+{"Name":"Chicken","CostPrice":4,"SellPrice":6,"id":2}

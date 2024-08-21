@@ -1,0 +1,14 @@
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\bin\Debug\net8.0\JsonProject.exe
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\bin\Debug\net8.0\JsonProject.deps.json
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\bin\Debug\net8.0\JsonProject.runtimeconfig.json
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\bin\Debug\net8.0\JsonProject.dll
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\bin\Debug\net8.0\JsonProject.pdb
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.AssemblyInfoInputs.cache
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.AssemblyInfo.cs
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.csproj.CoreCompileInputs.cache
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.dll
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\refint\JsonProject.dll
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.pdb
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\JsonProject.genruntimeconfig.cache
+C:\Users\fnzrli109\Desktop\Lessons\C#\Json\JsonProject\JsonProject\obj\Debug\net8.0\ref\JsonProject.dll
